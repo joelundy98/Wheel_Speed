@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/Users/joelu/.platformio/packages/framework-arduinoteensy/cores/teensy3"
             ],
             "defines": [
                 "_DEBUG",
